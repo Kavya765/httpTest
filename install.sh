@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#
+##
 # --- Configuration ---
 TOOL_NAME="httptest"
 REPO_PATH="github.com/saransridatha/httptest"
